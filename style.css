@@ -188,6 +188,9 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 .voffset{
 	margin-top:30px;
 }
+.voffset-md{
+	margin-top:50px;
+}
 .voffset-lg{
 	margin-top:80px;
 }
@@ -375,9 +378,6 @@ button{
 
 /* = Icons
 -------------------------------------------------------------- */
-.icon-sm{
-	font-size:18px!important;
-}
 .icon-md{
 	font-size:30px!important;
 }
